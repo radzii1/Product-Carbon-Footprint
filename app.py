@@ -4,7 +4,7 @@ import pandas as pd
 # Load emission factors
 df = pd.read_csv("emission_factors.csv")
 
-st.title("🌍 Product Carbon Footprint Calculator")
+st.title("BETAM's Product Carbon Footprint Calculator")
 
 # Show data
 if st.checkbox("Show Emission Factors"):
