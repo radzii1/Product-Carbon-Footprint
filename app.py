@@ -5,6 +5,11 @@ import pandas as pd
 df = pd.read_csv("emission_factors.csv")
 
 st.title("BETAM's Product Carbon Footprint Calculator")
+st.caption("An internal sustainability tool developed by the Sustainability Department at BETAM ")
+st.markdown("""
+**Bin Dasmal Engineering Technologies & Management Co. LLC (BETAM)**  
+This tool is designed to estimate carbon emissions associated with materials, energy, and transportation — aligned with GHG Protocol Scopes 1, 2, and 3.
+""")
 
 # Show data
 if st.checkbox("Show Emission Factors"):
