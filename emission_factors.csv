@@ -1,5 +1,5 @@
 Item,Emission Factor (kg CO₂e/unit),Unit,Scope
-Electricity (UAE Grid),0.423,kWh,Scope 2
+Electricity (UAE Grid),0.40,kWh,Scope 2
 Diesel,2.68,Litre,Scope 1
 Plastic (LDPE),1.75,kg,Scope 3
 Steel,1.85,kg,Scope 3
