@@ -6,8 +6,8 @@ This is a web-based **Product Carbon Footprint (PCF) Calculator** developed usin
 
 ## Live Demo
 
-🔗 [Click here to try the app](https://your-username.streamlit.app)  
-_(Replace with your actual deployed Streamlit app link)_
+🔗 [Click here to try the app]
+https://appuct-carbon-footprint-izyizwjogbcqsepsjiyhbm.streamlit.app/
 
 ---
 
